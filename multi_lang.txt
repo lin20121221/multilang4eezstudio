@@ -1,0 +1,9 @@
+;English	Chinese		array_name
+   KIT		  鼓套		 str_kit
+   EDIT           编辑           str_edit
+   "01 SONG NAME"  "01 曲名"     str_songname
+        "Off"	  关闭		 str_off
+	"On"	  开启		 str_on
+        "Accomp"  伴奏		str_accomp
+        "Drum"    鼓		str_drum
+        Pan       声像           str_pan
