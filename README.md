@@ -16,4 +16,4 @@ Usage:
 3. 编辑完成后，在命令行运行：
     python multilang.py <c_source_file>
 4. 在项目中引用工具生成的 strings.h 文件
-5. 
+   
